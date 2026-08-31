@@ -1,0 +1,6 @@
+{
+  "name": "Apna Bazaar",
+  "description": "A Flipkart-inspired e-commerce platform for digital files, apps, source code, and software products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
